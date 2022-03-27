@@ -1,5 +1,5 @@
 # Starbucks clone
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AdrianoWeverton/multi-form/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AdrianoWeverton/clone-starbucks/blob/master/LICENSE) 
 
 # Sobre o projeto
 https://adrianoweverton.github.io/clone-starbucks/
